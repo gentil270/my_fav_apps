@@ -1,0 +1,6 @@
+{
+  "name": "Umutuzo Digital Media",
+  "description": "Global digital media hub unifying World Live TV, YouTube Music & Video, Spotify & Audiomack Pins, IP-tailored feeds, Online & Offline Radio, and Google Drive Media Vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
